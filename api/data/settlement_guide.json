@@ -1,0 +1,115 @@
+{
+  "address_registration": {
+    "title": "Address Registration (住民登録)",
+    "steps": [
+      "Visit your local ward office (区役所, kuyakusho) or city hall within 14 days of moving",
+      "Bring your residence card, passport, and My Number card if you have one",
+      "Complete the 'Change of Address' form (転入届, ten'nyū todoke)",
+      "Submit the form at the registration counter",
+      "Receive your new residence certificate (住民票, jūminhyō)"
+    ],
+    "documents": ["Residence Card", "Passport", "My Number Card (if available)"],
+    "tip": "Morning visits (9-11 AM) are typically faster. The process usually takes 15-30 minutes.",
+    "cultural_context": "Address registration is mandatory in Japan and connects you to local services like healthcare and voting.",
+    "japanese_terms": [
+      {"term": "区役所", "reading": "kuyakusho", "meaning": "ward office"},
+      {"term": "住民票", "reading": "jūminhyō", "meaning": "residence certificate"},
+      {"term": "転入届", "reading": "ten'nyū todoke", "meaning": "move-in notification"}
+    ]
+  },
+  "bank_account": {
+    "title": "Opening a Bank Account (銀行口座開設)",
+    "steps": [
+      "Choose a bank (major banks: MUFG, Mizuho, SMBC, or Japan Post Bank)",
+      "Visit a branch with required documents",
+      "Fill out the account opening application form",
+      "Set up your personal seal (hanko) or signature",
+      "Make an initial deposit (usually ¥1,000 minimum)",
+      "Receive your cash card and bankbook within 1-2 weeks"
+    ],
+    "documents": ["Residence Card", "Passport", "My Number Card", "Proof of address (住民票)", "Personal seal (hanko) or signature"],
+    "tip": "Bring a Japanese speaker if possible. Some banks have English-speaking staff at major branches.",
+    "cultural_context": "Japanese banks are very security-conscious. Having a local address registration is essential.",
+    "japanese_terms": [
+      {"term": "銀行口座", "reading": "ginkō kōza", "meaning": "bank account"},
+      {"term": "印鑑", "reading": "inkan", "meaning": "personal seal"},
+      {"term": "通帳", "reading": "tsūchō", "meaning": "bankbook"}
+    ]
+  },
+  "phone_contract": {
+    "title": "Mobile Phone Contract (携帯電話契約)",
+    "steps": [
+      "Choose a carrier (NTT Docomo, au, SoftBank, or Rakuten Mobile)",
+      "Visit a store or apply online",
+      "Bring required identification documents",
+      "Choose your plan and phone model",
+      "Set up payment method (bank account or credit card)",
+      "Complete identity verification process",
+      "Receive your phone and SIM card"
+    ],
+    "documents": ["Residence Card", "Passport", "Bank account details or credit card", "Proof of address"],
+    "tip": "Consider budget carriers like UQ Mobile or Y!mobile for cheaper options. Some stores have English support.",
+    "cultural_context": "Japanese carriers often require local bank accounts and have strict identity verification.",
+    "japanese_terms": [
+      {"term": "携帯電話", "reading": "keitai denwa", "meaning": "mobile phone"},
+      {"term": "契約", "reading": "keiyaku", "meaning": "contract"},
+      {"term": "本人確認", "reading": "honnin kakunin", "meaning": "identity verification"}
+    ]
+  },
+  "health_insurance": {
+    "title": "National Health Insurance (国民健康保険)",
+    "steps": [
+      "Visit your local ward office within 14 days of address registration",
+      "Bring your residence card and passport",
+      "Fill out the health insurance application form",
+      "Pay the enrollment fee (varies by income)",
+      "Receive your health insurance card",
+      "Keep the card with you for medical visits"
+    ],
+    "documents": ["Residence Card", "Passport", "Proof of income (if applicable)"],
+    "tip": "Insurance covers 70% of medical costs. Always bring your card to medical appointments.",
+    "cultural_context": "Health insurance is mandatory for all residents. It provides access to Japan's excellent healthcare system.",
+    "japanese_terms": [
+      {"term": "国民健康保険", "reading": "kokumin kenkō hoken", "meaning": "national health insurance"},
+      {"term": "保険証", "reading": "hokenshō", "meaning": "insurance card"},
+      {"term": "医療費", "reading": "iryōhi", "meaning": "medical expenses"}
+    ]
+  },
+  "my_number": {
+    "title": "My Number Card (マイナンバーカード)",
+    "steps": [
+      "Apply online at the My Number portal or at city hall",
+      "Submit required photos and documents",
+      "Wait for notification (usually 1-2 months)",
+      "Visit city hall to collect your card",
+      "Set up your PIN numbers (2 different PINs)",
+      "Activate digital certificate if needed"
+    ],
+    "documents": ["Individual Number Notice", "Identity documents", "Residence Card"],
+    "tip": "The card serves as official ID and enables online government services. Very useful for taxes and applications.",
+    "cultural_context": "My Number is Japan's social security number system, used for taxes, benefits, and government services.",
+    "japanese_terms": [
+      {"term": "マイナンバー", "reading": "mai nanbā", "meaning": "My Number"},
+      {"term": "個人番号", "reading": "kojin bangō", "meaning": "individual number"},
+      {"term": "暗証番号", "reading": "anshō bangō", "meaning": "PIN number"}
+    ]
+  },
+  "residence_tax": {
+    "title": "Residence Tax (住民税)",
+    "steps": [
+      "Tax is automatically calculated based on previous year's income",
+      "Receive tax notification in June",
+      "Choose payment method: lump sum or quarterly installments",
+      "Pay at convenience stores, banks, or set up automatic deduction",
+      "Keep payment receipts for your records"
+    ],
+    "documents": ["Tax notification", "Bank account details (for automatic payment)"],
+    "tip": "First-year residents often don't pay residence tax. Set aside money monthly for the following year.",
+    "cultural_context": "Residence tax funds local services like schools, roads, and community programs.",
+    "japanese_terms": [
+      {"term": "住民税", "reading": "jūminzei", "meaning": "residence tax"},
+      {"term": "納税通知書", "reading": "nōzei tsūchisho", "meaning": "tax notification"},
+      {"term": "口座振替", "reading": "kōza furikae", "meaning": "automatic bank transfer"}
+    ]
+  }
+}
